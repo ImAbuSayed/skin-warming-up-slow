@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-warming-up-slow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Skin Warming Up Slow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-warming-up-slow/) |
+| **Get License** | [Official Music Licensing for Skin Warming Up Slow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-warming-up-slow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows dancing on the hardwood floor
+> We don't need to look outside no more
+> Got the embers burning down to a glow
+> Just feeling our skin warming up slow
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
